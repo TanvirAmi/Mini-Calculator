@@ -1,0 +1,68 @@
+/**
+*stylesheet for calculator widget
+*Author: Tanvir.
+*/
+
+#sign{
+	width: 100px;
+	margin: 5px;
+	background: #D3D3D3;
+	border-radius: 3px;
+	border: none;
+	font-weight: bold;
+}
+
+#result{
+	width: 150px;
+  border: ;
+  background: #D3D3D3;
+  color: #000;
+  border-radius: 2px;
+}
+
+#btn{
+  padding: 4px;
+	margin-top: 10px;
+	margin-bottom: -10px;
+  background: #7ed934;
+  background-image: -webkit-linear-gradient(top, #7ed934, #4a4909);
+  background-image: -moz-linear-gradient(top, #7ed934, #4a4909);
+  background-image: -ms-linear-gradient(top, #7ed934, #4a4909);
+  background-image: -o-linear-gradient(top, #7ed934, #4a4909);
+  background-image: linear-gradient(to bottom, #7ed934, #4a4909);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 2px;
+  font-family: Arial;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#btn:hover {
+	 cursor: pointer;
+  background: #22b549;
+  background-image: -webkit-linear-gradient(top, #22b549, #606951);
+  background-image: -moz-linear-gradient(top, #22b549, #606951);
+  background-image: -ms-linear-gradient(top, #22b549, #606951);
+  background-image: -o-linear-gradient(top, #22b549, #606951);
+	background-image: linear-gradient(to bottom, #22b549, #606951);
+	text-decoration: none;
+}
+
+#num1{
+	-webkit-box-shadow: 0px 0px 2px #FFA500;
+	-moz-box-shadow: 0px 0px 2px #FFA500;
+	box-shadow: 0px 0px 2px #FFA500;
+	background-color: #F0E68C;
+	color: #000;
+	text-align: center;
+}
+
+#num2{
+	-webkit-box-shadow: 0px 0px 2px #FFA500;
+	-moz-box-shadow: 0px 0px 2px #FFA500;
+	box-shadow: 0px 0px 2px #FFA500;
+	background-color: #F0E68C;
+	color: #000;
+	text-align: center;
+}
