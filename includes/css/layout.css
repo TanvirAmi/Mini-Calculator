@@ -13,7 +13,8 @@
 }
 
 #result{
-	width: 150px;
+  padding: 10px;
+  width: 180px;
   border: ;
   background: #D3D3D3;
   color: #000;
@@ -50,6 +51,8 @@
 }
 
 #num1{
+	width: 180px;
+	padding: 12px;
 	-webkit-box-shadow: 0px 0px 2px #FFA500;
 	-moz-box-shadow: 0px 0px 2px #FFA500;
 	box-shadow: 0px 0px 2px #FFA500;
@@ -59,6 +62,8 @@
 }
 
 #num2{
+	width: 180px;
+	padding: 12px;
 	-webkit-box-shadow: 0px 0px 2px #FFA500;
 	-moz-box-shadow: 0px 0px 2px #FFA500;
 	box-shadow: 0px 0px 2px #FFA500;
