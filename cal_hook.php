@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Mini Calculator
-* Plugin URI: https://
+* Plugin URI: https://github.com/TanvirAmi/Mini-Calculator
 * Description: This plugin will add calculator widget....in sidebar.
 * Version: 1.0
 * Author: Tanvir
